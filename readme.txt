@@ -1,3 +1,5 @@
+The jello cube is made of elastic material, much like the jello sold in grocery stores. When the jello cube is stretched, it will try to contract. When squeezed together, it will tend to inflate back to the original shape. In order to simulate the jello, I use a 3D mass-spring network, which is a very common tool in physically based modeling, especially with interactive systems.
+
 Features:
 
 1. Animate the movement of a jello cube based on a realistic physical model.
